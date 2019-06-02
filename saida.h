@@ -1,11 +1,3 @@
-//
-//  saida.h
-//  1pf-21178
-//
-//  Created by Paulo on 02/06/2019.
-//  Copyright © 2019 Paulo A. Nascimento. All rights reserved.
-//
-
 #ifndef saida_h
 #define saida_h
 
