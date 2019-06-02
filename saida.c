@@ -1,11 +1,3 @@
-//
-//  saida.c
-//  1pf-21178
-//
-//  Created by Paulo on 02/06/2019.
-//  Copyright © 2019 Paulo A. Nascimento. All rights reserved.
-//
-
 #include <math.h>
 #include "saida.h"
 
