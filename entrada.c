@@ -1,11 +1,3 @@
-//
-//  main.c
-//  1pf-21178
-//
-//  Created by Paulo on 01/06/2019.
-//  Copyright © 2019 Paulo A. Nascimento. All rights reserved.
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
